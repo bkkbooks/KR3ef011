@@ -1,0 +1,603 @@
+canonical_identifier: bkk:krp/KR3ef011/v1
+canonical_location: https://kanripo.org/bkk/KR3ef011/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒直格
+  identifiers:
+    krp: KR3ef011
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04380
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef011.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef011_000.yaml, hash: 'sha256:ecb7a937c52e7ad8a5af9e6e707583b5e36007b6d93d9024d82af53732c0e088'}
+  - {seq: 1, filename: KR3ef011_001.yaml, hash: 'sha256:0efc643c7d27edce3c0307a6a857883065424f60f5df736238bbd2d79a487127'}
+  - {seq: 2, filename: KR3ef011_002.yaml, hash: 'sha256:6e917d9117cd796fa7d50138e5c903feb928555f802690362367459e7b4e4c4a'}
+  - {seq: 3, filename: KR3ef011_003.yaml, hash: 'sha256:0452d0d3d1a3bf8c352c5695b2fd806907100a5e757f4ab12a4f0e3977cc0c9d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef011_000.markers.yaml, hash: 'sha256:f6e6a4e4a4e6a9cd4c1512fcfe7067dc5be8c0433bb07ade9948933ec511ede7'}
+  - {seq: 1, role: markers, filename: assets/KR3ef011_001.markers.yaml, hash: 'sha256:a01a5bdc06fd2fe03192a5edbcc21338499ec18076ffd786480f1d1a4af5cf32'}
+  - {seq: 2, role: markers, filename: assets/KR3ef011_002.markers.yaml, hash: 'sha256:50312403247f6640e5e2ce531b8d4310d7e662a7a0b8d9bc17bd2a6fceea8b39'}
+  - {seq: 3, role: markers, filename: assets/KR3ef011_003.markers.yaml, hash: 'sha256:c8f6f60489176c3408e7c496bbdada58e24b37a6effdb091e690ab1c46df263f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef011_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 366
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 6742
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 14
+  label: 十干
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d3
+    span:
+    - body
+    - 14
+    - 121
+  label: 臟腑配合
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d4
+    span:
+    - body
+    - 121
+    - 136
+  label: 十二支
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d5
+    span:
+    - body
+    - 136
+    - 221
+  label: 臟腑經絡配合
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d6
+    span:
+    - body
+    - 221
+    - 270
+  label: 手足經絡配天地四時
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d7
+    span:
+    - body
+    - 270
+    - 331
+  label: 合主表裡
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d8
+    span:
+    - body
+    - 331
+    - 431
+  label: 陰陽臟腑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d9
+    span:
+    - body
+    - 431
+    - 1852
+  label: 經絡病證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d10
+    span:
+    - body
+    - 1852
+    - 1939
+  label: 內外八邪
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d11
+    span:
+    - body
+    - 1939
+    - 2196
+  label: 內外病生四類
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d12
+    span:
+    - body
+    - 2196
+    - 2430
+  label: 九氣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d13
+    span:
+    - body
+    - 2430
+    - 2514
+  label: 五邪
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d14
+    span:
+    - body
+    - 2514
+    - 2542
+  label: 五邪微甚
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d15
+    span:
+    - body
+    - 2542
+    - 2622
+  label: 十干夫婦配合成五運
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d16
+    span:
+    - body
+    - 2622
+    - 2770
+  label: 五運太過不及
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d17
+    span:
+    - body
+    - 2770
+    - 2830
+  label: 十二支應六氣三陰三陽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d18
+    span:
+    - body
+    - 2830
+    - 2967
+  label: 六氣有餘不足
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d19
+    span:
+    - body
+    - 2967
+    - 2975
+  label: 六氣
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d20
+    span:
+    - body
+    - 2975
+    - 3035
+  label: 五運應五臟主病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d21
+    span:
+    - body
+    - 3035
+    - 3492
+  label: 六氣為病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3d22
+    span:
+    - body
+    - 3492
+    - 6742
+  label: 論脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.d22d2
+    span:
+    - body
+    - 3494
+    - 3538
+  label: 三部九候
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.d22d3
+    span:
+    - body
+    - 3538
+    - 4341
+  label: 脈位輕重
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.d22d4
+    span:
+    - body
+    - 4341
+    - 4546
+  label: 脈息遲速
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.d22d5
+    span:
+    - body
+    - 4546
+    - 4834
+  label: 七表
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.d22d6
+    span:
+    - body
+    - 4834
+    - 5516
+  label: 八里
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.d22d7
+    span:
+    - body
+    - 5516
+    - 5543
+  label: 四時平脈
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.d22d8
+    span:
+    - body
+    - 5543
+    - 6048
+  label: 六步主位平脈
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.d22d9
+    span:
+    - body
+    - 6048
+    - 6166
+  label: 結促代
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.d22d10
+    span:
+    - body
+    - 6166
+    - 6357
+  label: 趺陽脈
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.d22d11
+    span:
+    - body
+    - 6357
+    - 6413
+  label: 太谿脈
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ef011_jc_001-d3.d22d12
+    span:
+    - body
+    - 6413
+    - 6742
+  label: 死生脈候
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 13729
+  label: 卷中
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 13729
+  label: 傷寒總評
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d2
+    span:
+    - body
+    - 6
+    - 931
+  label: 傷寒六經傳受
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d3
+    span:
+    - body
+    - 931
+    - 978
+  label: 裡外傷
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d4
+    span:
+    - body
+    - 978
+    - 1458
+  label: 表裡證
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d5
+    span:
+    - body
+    - 1458
+    - 5407
+  label: 主療
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d6
+    span:
+    - body
+    - 5407
+    - 5811
+  label: 傷寒表證
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d7
+    span:
+    - body
+    - 5811
+    - 6157
+  label: 傷風表證
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d8
+    span:
+    - body
+    - 6157
+    - 8498
+  label: 俱中風寒
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d9
+    span:
+    - body
+    - 8498
+    - 8534
+  label: 吐愈佳
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d10
+    span:
+    - body
+    - 8534
+    - 11384
+  label: 諸可下證
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2.d10d60
+    span:
+    - body
+    - 11090
+    - 11384
+  label: 瘀血下證
+  type: section
+  level: 4
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d11
+    span:
+    - body
+    - 11384
+    - 11765
+  label: 發黃
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d12
+    span:
+    - body
+    - 11765
+    - 12304
+  label: 結胸
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d13
+    span:
+    - body
+    - 12304
+    - 12839
+  label: 痞
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ef011_jc_002-d4.d2d14
+    span:
+    - body
+    - 12839
+    - 13729
+  label: 懊憹
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef011_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 9015
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef011_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 4254
+  label: 諸證藥石分劑
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef011_jc_003-d5d3
+    span:
+    - body
+    - 4254
+    - 9015
+  label: 泛論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef011_jc_003-d5.d3d12
+    span:
+    - body
+    - 4994
+    - 7972
+  label: 戰汗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef011_jc_003-d5.d3d13
+    span:
+    - body
+    - 7972
+    - 8133
+  label: 受汗
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef011_jc_003-d5.d3d14
+    span:
+    - body
+    - 8133
+    - 8725
+  label: 汗後
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ef011_jc_003-d5.d3d15
+    span:
+    - body
+    - 8725
+    - 9015
+  label: 傷寒傳染論
+  type: section
+  level: 3
+hash: sha256:797b57aa740b8314f621ebf7888fc9a90f34435c5f0b2cfbdc069b0c138598ee
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
