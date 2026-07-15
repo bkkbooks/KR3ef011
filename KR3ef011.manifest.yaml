@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef011/v1
 canonical_location: https://kanripo.org/bkk/KR3ef011/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷寒直格
   identifiers:
@@ -17,15 +17,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef011_000.yaml, hash: 'sha256:9345c8a30353c81538608ea3b258606e70ca3c60ef467591a7f7d1bcc35a83f6'}
-  - {seq: 1, filename: KR3ef011_001.yaml, hash: 'sha256:acf270e82e364eae0c1fe44ee9d3235924bddf22ecef51c98f7ac68687b386c0'}
-  - {seq: 2, filename: KR3ef011_002.yaml, hash: 'sha256:07222f3fa4e035786255e8c9518f4945b62c96f622bfe3c73c51d94e64b3e218'}
-  - {seq: 3, filename: KR3ef011_003.yaml, hash: 'sha256:1668a65fcafa4af2523d7e717eb7a186c1b6933d1be05ff2638bc315c3e54965'}
+  - {seq: 0, filename: KR3ef011_000.yaml, hash: 'sha256:4aa69cf5b4f4a720dd9ba185d018b2b281e4f3cba8b4b1019dbfd9ab1b073757'}
+  - {seq: 1, filename: KR3ef011_001.yaml, hash: 'sha256:3b731422501a4bb7416dd9efb24eda3279018578395a088d20d3b3dcb02f6c02'}
+  - {seq: 2, filename: KR3ef011_002.yaml, hash: 'sha256:19a16f89c05f025ecb88f7313a6c6dbeffa8c913872ef650620d89915c5447e3'}
+  - {seq: 3, filename: KR3ef011_003.yaml, hash: 'sha256:c8d5a18c3a44eaca0817029b437f2a1dd2105a90e0f58572e2f1b99eb440d858'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef011_000.markers.yaml, hash: 'sha256:b06e6f9232485ae0ddce1840422c4d9cd79eff4fee60324a7d72384cb988418c'}
-  - {seq: 1, role: markers, filename: assets/KR3ef011_001.markers.yaml, hash: 'sha256:17c3001249c9e2516194be25cfc86cda989d447408faecac940e75660e73b0d7'}
-  - {seq: 2, role: markers, filename: assets/KR3ef011_002.markers.yaml, hash: 'sha256:0926736b2c11709fb0e9df338e785abb726d3fd726ae479878c2226d4675b293'}
-  - {seq: 3, role: markers, filename: assets/KR3ef011_003.markers.yaml, hash: 'sha256:a6cba53dccf256a30fae9e4900ed1e41bddec0d0aa400eb73d575f3406fbdea6'}
+  - {seq: 0, role: markers, filename: assets/KR3ef011_000.markers.yaml, hash: 'sha256:75cf3fb665955f93561677e697536337e7ec18d822b9658fe7ad978d4fa15c74'}
+  - {seq: 1, role: markers, filename: assets/KR3ef011_001.markers.yaml, hash: 'sha256:aaa426de222257bbc0bdb4c6c6f0c2a80a4934323cbc4161c58715de0d61b142'}
+  - {seq: 2, role: markers, filename: assets/KR3ef011_002.markers.yaml, hash: 'sha256:94985e182fa4b5fe173932633f257e1485adbfff60ac73540411caf65327cc3c'}
+  - {seq: 3, role: markers, filename: assets/KR3ef011_003.markers.yaml, hash: 'sha256:8ee21761fcee288f0ae24c06cd82db0897e4f3c039b7ca05f124fff917890999'}
 table_of_contents:
 - ref:
     seq: 0
@@ -597,4 +597,7 @@ table_of_contents:
   label: 傷寒傳染論
   type: section
   level: 3
-hash: sha256:b078c3a780e7d9b5465078aae0304b6f22f1ce650b5f30a278f18d5dc1b36964
+hash: sha256:99a0de24100001a16e0a45ececf3412815a8e25ae84253d319f22dae99a7feff
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
