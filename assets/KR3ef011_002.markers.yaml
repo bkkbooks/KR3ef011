@@ -396,6 +396,7 @@ markers:
   - {type: xml-element, offset: 1003, content: '', id: KR3ef011_jc_002-d4.d2.d4p6, name: p, role: open, attrs: {'xml:id': KR3ef011_jc_002-d4.d2.d4p6}}
   - {type: 'tls:seg', offset: 1003, content: '', id: KR3ef011_jc_002-d4.d2.d4.p6s1}
   - {type: punctuation, offset: 1005, content: (, id: KR3ef011_jc_002-bkkpn176}
+  - {type: voice, offset: 1005, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 1007, content: ), id: KR3ef011_jc_002-bkkpn177}
   - {type: punctuation, offset: 1016, content: 。, id: KR3ef011_jc_002-bkkpn178}
   - {type: 'tls:seg', offset: 1016, content: '', id: KR3ef011_jc_002-d4.d2.d4.p6s2}
@@ -1766,6 +1767,7 @@ markers:
   - {type: punctuation, offset: 4566, content: ，, id: KR3ef011_jc_002-bkkpn826}
   - {type: 'tls:seg', offset: 4566, content: '', id: KR3ef011_jc_002-d4.d2.d5.p62s318}
   - {type: punctuation, offset: 4568, content: (, id: KR3ef011_jc_002-bkkpn827}
+  - {type: voice, offset: 4568, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 4570, content: ), id: KR3ef011_jc_002-bkkpn828}
   - {type: punctuation, offset: 4573, content: ，, id: KR3ef011_jc_002-bkkpn829}
   - {type: 'tls:seg', offset: 4573, content: '', id: KR3ef011_jc_002-d4.d2.d5.p62s319}
@@ -2835,6 +2837,7 @@ markers:
   - {type: punctuation, offset: 7159, content: ，, id: KR3ef011_jc_002-bkkpn1332}
   - {type: 'tls:seg', offset: 7159, content: '', id: KR3ef011_jc_002-d4.d2.d8.p24s13}
   - {type: punctuation, offset: 7165, content: (, id: KR3ef011_jc_002-bkkpn1333}
+  - {type: voice, offset: 7165, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 7167, content: ), id: KR3ef011_jc_002-bkkpn1334}
   - {type: punctuation, offset: 7174, content: ，, id: KR3ef011_jc_002-bkkpn1335}
   - {type: 'tls:seg', offset: 7174, content: '', id: KR3ef011_jc_002-d4.d2.d8.p24s14}
@@ -5529,4 +5532,4 @@ markers:
   - {type: punctuation, offset: 13729, content: 。, id: KR3ef011_jc_002-bkkpn2578}
   - {type: xml-element, offset: 13729, content: '', id: KR3ef011_jc_002-d4.d2.d14p10_end, name: p, role: close, attrs: {'xml:id': KR3ef011_jc_002-d4.d2.d14p10}}
   back: []
-hash: sha256:94985e182fa4b5fe173932633f257e1485adbfff60ac73540411caf65327cc3c
+hash: sha256:d92f943e243be49c5a3be87d61d2a379dfec01a6e30da300b82893ca21202225
