@@ -17,12 +17,12 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ef011_000-jc.yaml, hash: 'sha256:9345c8a30353c81538608ea3b258606e70ca3c60ef467591a7f7d1bcc35a83f6'}
+  - {seq: 0, filename: KR3ef011_000-jc.yaml, hash: 'sha256:ff2335ff4c4a8007b31874920789a7b947d2aa8b92cc2c0b6f9a29cc78ff26b1'}
   - {seq: 1, filename: KR3ef011_001-jc.yaml, hash: 'sha256:acf270e82e364eae0c1fe44ee9d3235924bddf22ecef51c98f7ac68687b386c0'}
   - {seq: 2, filename: KR3ef011_002-jc.yaml, hash: 'sha256:07222f3fa4e035786255e8c9518f4945b62c96f622bfe3c73c51d94e64b3e218'}
   - {seq: 3, filename: KR3ef011_003-jc.yaml, hash: 'sha256:1668a65fcafa4af2523d7e717eb7a186c1b6933d1be05ff2638bc315c3e54965'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef011_000-jc.markers.yaml, hash: 'sha256:76a079854d9fd89f07349b539ab212c6649b6be06d318d28a0fc85429b815a03'}
+  - {seq: 0, role: markers, filename: assets/KR3ef011_000-jc.markers.yaml, hash: 'sha256:917249469650e3c636a234d9243b041cdc645ed0b45ca8b8cae94c8b8a22bbbc'}
   - {seq: 1, role: markers, filename: assets/KR3ef011_001-jc.markers.yaml, hash: 'sha256:d69953c6ad3641f456e6755952e67f46c8f1282297fcc7eec104039e7017d148'}
   - {seq: 2, role: markers, filename: assets/KR3ef011_002-jc.markers.yaml, hash: 'sha256:f2ff53cbd89798464ccb244991b1e9ce0220d13bef4eee4ca8e38658e6581feb'}
   - {seq: 3, role: markers, filename: assets/KR3ef011_003-jc.markers.yaml, hash: 'sha256:1493ffc964c1c68fdbbe9aad1492ae1cbf14bb6f7c5ca0ceb064bc0d37f37cd6'}
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef011_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 366
   label: 序
@@ -597,4 +597,4 @@ table_of_contents:
   label: 傷寒傳染論
   type: section
   level: 3
-hash: sha256:e6f9626f21ec76519c6babea20ddc62627b38b7f402f8f64c2ee1110ccbdb761
+hash: sha256:9dc0b361c954ddf3739f0162f22bc7de513d3f5f1b95eb489fa43ab0f1f238b7
